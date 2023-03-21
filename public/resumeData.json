@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name": "Erez Azariya",
+    "occupation": "Junior Full stack",
+    "description": "Hardworking and passionate job seeker with strong organizational skills eager to secure entry-level key position. Ready to help team achieve company goals",
+    "image": "me.jpg",
+    "bio": "25 Years old from Hadera. love to solve problems, write a clean codes and learn more technologies. Building full stack systems based on TypeScript/JavaScript",
+    "email": "erezazariya@gmail.com",
+    "phone": "052-266-8502",
+    "address": {
+      "street": "Rothschild St.",
+      "city": "Hadera"
+    },
+    "website": "https://heroic-granita-8f18e2.netlify.app/",
+    "resumedownload": "https://heroic-granita-8f18e2.netlify.app/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/100005731632474",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/erez-azariya/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/erez.azariya",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/EreZAzariyA",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "John Bryce",
+        "degree": "Full-stack web development",
+        "graduated": "March 2022",
+        "description": "335-hours residential course focused on the latest programming technologies: TypeScript, JavaScript, React, Angular, Node.js, Redux, Mobx, MySQL, MongoDB, Docker, RexEx, PHP."
+      }
+    ],
+    "skills": [
+      {
+        "name": "TypeScript",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Angular",
+        "level": "50%"
+      },
+      {
+        "name": "Node.js",
+        "level": "80%"
+      },
+      {
+        "name": "MySql",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Snake",
+        "category": "Snake Game - Using React and TypeScript. Front: 'AWS-Amplify'",
+        "image": "Snake.gif",
+        "url": "https://master.dmcgq43ky8zzg.amplifyapp.com/"
+      },
+      {
+        "title": "Tic-Tac-Toe",
+        "category": "Tic-Tac-Toe Game - Using React and TypeScript. Front: 'AWS-Amplify'",
+        "image": "Tic-Tac-Toe.gif",
+        "url": "https://master.dfyybdctzjiw9.amplifyapp.com/"
+      },
+      {
+        "title": "EA-Store",
+        "category": "EA-Store - Using React,TypeScript,Redux,MySQL(Amazon RDS). Front: 'AWS-Amplify'. Back: 'Amazon EC2 (NodeJS)'",
+        "image": "EA-Store.gif",
+        "url": "https://master.d22c7v8hua2uvt.amplifyapp.com/"
+      },
+      {
+        "title": "Shofersal online store",
+        "category": "Using Angular,TypeScript,Mobx,MongoDB",
+        "image": "Angular Project.gif",
+        "url": "https://github.com/EreZAzariyA/Shofersal-Online"
+      },
+      {
+        "title": "React E-Commerce Phone Store",
+        "category": "Using React,TypeScript,Redux,MySQL(Amazon RDS). Front: 'AWS-Amplify' Back: 'Amazon EC2 (NodeJS)'",
+        "image": "Phone-Store.gif",
+        "url": "https://master.d3eqhxr7e40pa9.amplifyapp.com/"
+      },
+      {
+        "title": "Vacations Follow",
+        "category": "using socket.io (live update)+ authentication",
+        "image": "Project 4.gif",
+        "url": "https://github.com/EreZAzariyA"
+      },
+      {
+        "title": "Basic To-do`s app",
+        "category": "Using React,TypeScript,Mobx.",
+        "image": "To-Do List.gif",
+        "url": "https://master.d2pocvofu3k4ps.amplifyapp.com/"
+      }
+    ]
+  }
+}
