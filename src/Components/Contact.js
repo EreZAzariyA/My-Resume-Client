@@ -29,7 +29,7 @@ class Contact extends Component {
       }
 
       try {
-        const response = await axios.post('https://my-resume-server.onrender.com/api/send', contactDetails);
+        const response = await axios.post('https://y93b2kw3uh.execute-api.eu-central-1.amazonaws.com/api/send', contactDetails);
         // const response = await axios.post('http://127.0.0.1:5003/api/send', contactDetails);
         const status = response.data;
         if(status){
